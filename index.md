@@ -55,8 +55,6 @@ The following figure gives an overview about the three possible prerequisites an
 Please take a moment to read these information carefully!  
 If you afterwards have got further questions about the course, please contact [Sebastian Stober](mailto:stober@ovgu.de).
 
-FIXME: Change date in figure!
-
 <img src="figures/prerequisites.png" width="700">
 
 ([Link to LSF system](https://lsf.ovgu.de) | [FIXME Link to Moodle](https://elearning.ovgu.de/course/view.php?id=11018) - Course Password: IDLWS2022)  
@@ -88,7 +86,7 @@ Upon passing the exam (grade 4.0 and better) the certificate will be issued.
 
 #### Exam Admission Criteria
 
-In order to be admitted to the exam, you must not fail weekly assignments more than 2 times. Submissions are only successful if handed in in time and if you are able to present the solution on request during the respective exercise session. 
+In order to be admitted to the exam, you must not fail weekly assignments more than 2 times. Submissions are only successful if handed in in time and if you are able to present the solution on request during the respective exercise session.
 
 
 #### Exercises
