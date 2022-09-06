@@ -57,7 +57,7 @@ If you afterwards have got further questions about the course, please contact [S
 
 <img src="figures/prerequisites.png" width="700">
 
-([Link to LSF system](https://lsf.ovgu.de) | [FIXME Link to Moodle](https://elearning.ovgu.de/course/view.php?id=11018) - Course Password: IDLWS2022)  
+([Link to LSF system](https://lsf.ovgu.de) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=13089) - Course Password: IDLWS2022)  
 Your submitted information will be solely used for application process. It will be treated confidentially and deleted after the candidates have been selected.  
 
 
