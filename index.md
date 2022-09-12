@@ -101,6 +101,7 @@ Please specify several dates with different priorities as we cannot guarantee th
 
 Please note: The final grouping of students into exercise groups will take place after the LSF registration deadline has passed.
 The allocation is based on the priorities that you indicated when you signed up.
+**NOTE** The exercise times are still subject to change. LSF registration will open once the change has been implemented!
 
 The change or visit of another group should remain the exception and must be communicated by email before the first of the two exercises.
 
