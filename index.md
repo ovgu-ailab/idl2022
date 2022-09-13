@@ -93,15 +93,14 @@ In order to be admitted to the exam, you must not fail weekly assignments more t
 
 There are two kinds of exercises - one for theory and one for praxis.
 You need to take both for the course.
-There will be two groups for each exercise type
+There will be two groups for each exercise type.
 To participate in the exercises, you must register in the [LSF system](https://lsf.ovgu.de).
-Registration is possible until October 4, 2022.
+Registration is possible until October 7, 2022.
 When you apply for the exercise groups, you can specify priorities for the different dates.
 Please specify several dates with different priorities as we cannot guarantee that everybody will be assigned to their first choice!
 
 Please note: The final grouping of students into exercise groups will take place after the LSF registration deadline has passed.
 The allocation is based on the priorities that you indicated when you signed up.
-**NOTE** The exercise times are still subject to change. LSF registration will open once the change has been implemented!
 
 The change or visit of another group should remain the exception and must be communicated by email before the first of the two exercises.
 
