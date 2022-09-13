@@ -9,7 +9,7 @@ title: Index
 Winter Semester 2022  
 [Prof. Dr. Sebastian Stober](http://www.ai.ovgu.de/Staff/Stober.html),
 [Jens Johannsmeier](http://www.ai.ovgu.de/Staff/Johannsmeier.html) &
-[Andreas Krug](http://ai.ovgu.de/Staff/Krug.html)  
+[Valerie Krug](http://ai.ovgu.de/Staff/Krug.html)  
 Tue 13:15-14:45; G29-307
 
 **Start: Tuesday, October 11**
