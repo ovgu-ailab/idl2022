@@ -30,3 +30,17 @@ lectures:
       - "15min group work: active structuring of ML topics (given topics, mixed groups)"
       - "15min topic map (together), can optionally moved to next class"
     note: "TODO: more links to online lectures/talks on basics"
+
+  - date: 2021-10-18
+    type:
+    content:
+      - title: MLPs, Gradient Descent & Backpropagation
+        slides:
+    reading:
+      - title: "Deep Learning Book - Chapter 6: Deep Feedforward Networks"
+        url: http://www.deeplearningbook.org/contents/mlp.html
+    assignment:
+      - label: "First Steps"
+        link: ass1.html
+        objectives:
+          - "Get your feet wet!"
