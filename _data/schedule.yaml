@@ -31,7 +31,7 @@ lectures:
       - "15min topic map (together), can optionally moved to next class"
     note: "TODO: more links to online lectures/talks on basics"
 
-  - date: 2021-10-18
+  - date: 2022-10-18
     type:
     content:
       - title: MLPs, Gradient Descent & Backpropagation
