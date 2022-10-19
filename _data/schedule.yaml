@@ -44,3 +44,16 @@ lectures:
         link: ass1.html
         objectives:
           - "Get your feet wet!"
+
+  - date: 2022-10-25
+    type:
+    content:
+    - title: CNNs
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, Sections 9.1 to 9.5"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    type:
+    assignment:
+      - label: "tf.data & Tensorboard"
+        link: ass2.html
