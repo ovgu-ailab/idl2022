@@ -41,7 +41,7 @@ minibatches instead of the class in `datasets.py`. Keep in mind that you should
 and convert the labels to `int32` (check the old
  `MNISTDataset` class for possible preprocessing)!
  
-[Here](https://ovgu-ailab.github.io/idl2021/assignments/2/tf_data.ipynb) you
+[Here](https://ovgu-ailab.github.io/idl2022/assignments/2/tf_data.ipynb) you
 can find a little notebook that displays some basic `tf.data` stuff (also for
 MNIST).
 
@@ -58,7 +58,7 @@ As before, you will need to do some extra reading to learn how to use
 TensorBoard. There are several tutorials on the Tensorflow website, accessed via
 Resources -> Tools. However, they use many high-level concepts we haven't
 looked at yet to build their networks, so you can find the basics 
-[here](https://ovgu-ailab.github.io/idl2021/assignments/2/linear_tb.ipynb).
+[here](https://ovgu-ailab.github.io/idl2022/assignments/2/linear_tb.ipynb).
 This is a modified version of last week's linear model that includes some lines
 to do TensorBoard visualizations. It should suffice for now.
 Integrate these lines into your MLP from the last assignment
@@ -84,7 +84,7 @@ TensorBoard to work.
 
 ## Diagnosing Problems via Visualization
 
-Download [this archive containing a few Python scripts](https://ovgu-ailab.github.io/idl2021/assignments/2/EPIC_DEEP_LEARNING_FAIL_COMPILATION_OCTOBER_2021.zip).
+Download [this archive containing a few Python scripts](https://ovgu-ailab.github.io/idl2021/assignments/2/EPIC_DEEP_LEARNING_FAIL_COMPILATION_OCTOBER_2022.zip).
 All these contain simple MLP training scripts for MNIST. All of them
 should also fail at training. For each example, find out through visualization
 why this is. Also, try to propose fixes for these issues. You may want to write
