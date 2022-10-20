@@ -84,7 +84,7 @@ TensorBoard to work.
 
 ## Diagnosing Problems via Visualization
 
-Download [this archive containing a few Python scripts](https://ovgu-ailab.github.io/idl2021/assignments/2/EPIC_DEEP_LEARNING_FAIL_COMPILATION_OCTOBER_2022.zip).
+Download [this archive containing a few Python scripts](https://ovgu-ailab.github.io/idl2022/assignments/2/EPIC_DEEP_LEARNING_FAIL_COMPILATION_OCTOBER_2022.zip).
 All these contain simple MLP training scripts for MNIST. All of them
 should also fail at training. For each example, find out through visualization
 why this is. Also, try to propose fixes for these issues. You may want to write
