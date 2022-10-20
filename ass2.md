@@ -20,10 +20,10 @@ time to load, or not display the data correctly.
 ## Datasets
 
 It should go without saying that loading numpy arrays and taking slices of
-these as batches (as we did in the last assignment) isn't a great way of 
+these as batches (as we did in the last assignment) isn't a great way of
 providing data to the training algorithm.
 For example, what if we are working with a dataset that doesn't fit into
-memory? 
+memory?
 
 The recommended way of handling datasets is via the `tf.data` module.
 Now is a good time to take some first steps with this module. Read
@@ -35,12 +35,12 @@ you, [here](https://www.tensorflow.org/tutorials/load_data/numpy) is a super sho
 version that just covers building a dataset from numpy arrays (ignore the part
 where they use Keras ;)).
 For now, the main thing is that you understand how to do just that.  
-Then, try to adjust your MLP code so that it uses `tf.data` to provide 
+Then, try to adjust your MLP code so that it uses `tf.data` to provide
 minibatches instead of the class in `datasets.py`. Keep in mind that you should
  map the data into the [0,1] range (convert to float!)
 and convert the labels to `int32` (check the old
  `MNISTDataset` class for possible preprocessing)!
- 
+
 [Here](https://ovgu-ailab.github.io/idl2022/assignments/2/tf_data.ipynb) you
 can find a little notebook that displays some basic `tf.data` stuff (also for
 MNIST).
@@ -57,7 +57,7 @@ sensible order?
 As before, you will need to do some extra reading to learn how to use
 TensorBoard. There are several tutorials on the Tensorflow website, accessed via
 Resources -> Tools. However, they use many high-level concepts we haven't
-looked at yet to build their networks, so you can find the basics 
+looked at yet to build their networks, so you can find the basics
 [here](https://ovgu-ailab.github.io/idl2022/assignments/2/linear_tb.ipynb).
 This is a modified version of last week's linear model that includes some lines
 to do TensorBoard visualizations. It should suffice for now.
@@ -109,7 +109,7 @@ crash your program in case of `nan` values appearing. In this case, see if you
 can do without the histograms and use other means to find out what is going
 wrong.
 - You should also look at the *gradients* of the network; if these are "unusual"
-(i.e. extremely small or large), something is probably wrong. 
+(i.e. extremely small or large), something is probably wrong.
 An overall impression of a gradient's size
 can be gained via `tf.norm(g)`; feel free to add scalar summaries of these
 values to TensorBoard. You can pass a `name` to the variables when defining
@@ -119,7 +119,7 @@ What about the weight initializations? Do the inputs/data look "normal"?
 - Note: The final two scripts (4 and 5) may actually work somewhat, but performance
 should still be significantly below what could be achieved by a "correct"
   implementation.
-  
+
 
 ## What to Hand In
 
@@ -146,3 +146,12 @@ architectures etc.
 
 If you want to get deeper into the data processing side of things, check
 [the Performance Guide](https://www.tensorflow.org/guide/data_performance).
+
+**Peer Quizzes**
+Follow the registration instructions provided on the theory exercise channel on Mattermost.
+Contribute PeerQuiz platform with at least
+
+- one question related to the course material and
+- one question related to the programming assignment.
+
+Answer and rate as many questions that are posted from peers as you want.
