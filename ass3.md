@@ -60,7 +60,7 @@ evaluations in a hand-full of lines of code. For now, you might want to rewrite
 your MLP code with these Keras functions and make sure it still works as before.
 
 An example notebook can be found 
-[here](https://ovgu-ailab.github.io/idl2022/assignments/3/mlp_keras.ipynb) (TODO).
+[here](https://ovgu-ailab.github.io/idl2022/assignments/3/mlp_keras.ipynb).
 
 
 ## CNN for MNIST
@@ -81,7 +81,7 @@ make sure your images have shape `(28, 28, 1)`, not `(784,)`!
 - Apply any number of `Dense` layers and the final classification (logits) layer.
 - Use Keras!
 - A reference CNN implementation _without_ Keras can be found 
-[here](https://ovgu-ailab.github.io/idl2022/assignments/3/conv_low_level.ipynb) (TODO)!
+[here](https://ovgu-ailab.github.io/idl2022/assignments/3/conv_low_level.ipynb)!
 
  **Note:** Depending on your machine, 
 training a CNN may take
