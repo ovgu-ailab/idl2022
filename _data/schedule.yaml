@@ -100,3 +100,15 @@ lectures:
     assignment:
     - label: Sentiment Classifcation Part 1
       link: ass5.html
+
+  - date: 2022-11-22
+    type:
+    content:
+    - title: Attention and Memory
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading6.html
+    xassignment:
+    - label: Sentiment Classification Part 2
+      link: ass6.html
