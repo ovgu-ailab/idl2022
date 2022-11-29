@@ -124,3 +124,19 @@ lectures:
     assignment:
     - label: Attention-based NMT
       link: ass7.html
+
+  - date: 2022-12-06
+    type:
+    content:
+    - title: Autoencoders & Self-Supervised Representation Learning
+      slides:
+    reading:
+  # Notes: DL-Book chapter 15 has a bit on RL using layer-wise pre-training,
+  # transfer learning and adversarial examples - i.e. limited coverage
+  # rather not use.
+    - title: Reading Assignment
+      url: reading8.html
+    type:
+    xassignment:
+    - label: Word2Vec
+      link: ass8a.html
