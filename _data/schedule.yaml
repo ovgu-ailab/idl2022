@@ -137,6 +137,6 @@ lectures:
     - title: Reading Assignment
       url: reading8.html
     type:
-    xassignment:
+    assignment:
     - label: Word2Vec
       link: ass8a.html
