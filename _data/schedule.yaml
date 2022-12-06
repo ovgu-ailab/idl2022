@@ -144,10 +144,16 @@ lectures:
   - date: 2022-12-13
     type:
     content:
-    - title: TBD
+    - title: Regularization & Optimization
       slides:
     reading:
-    - title: TBD
+    - title: "Deep Learning Book - Chapter 7: Regularization"
+      url: http://www.deeplearningbook.org/contents/regularization.html
+    - title: "Deep Learning Book - Chapter 8: Optimization (except Section 8.6)"
+      url: http://www.deeplearningbook.org/contents/optimization.html
+    - optional: True,
+      title: "Regularization for Deep Learning: A Taxonomy"
+      url: https://arxiv.org/abs/1710.10686
     assignment:
       - label: Self-supervised Learning
         link: ass9.html
