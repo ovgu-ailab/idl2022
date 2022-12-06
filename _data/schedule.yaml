@@ -140,3 +140,17 @@ lectures:
     assignment:
     - label: Word2Vec
       link: ass8a.html
+
+  - date: 2022-12-13
+    type:
+    content:
+    - title: TBD
+      slides:
+    reading:
+    - title: TBD
+    assignment:
+      - label: Self-supervised Learning
+        link: ass9.html
+    # - optional: True,
+    #   title: "optional reading for an introduction to predictive coding as self-supervised learning approach: Relaxing the Constraints on Predictive Coding Models"
+    #   url: https://arxiv.org/abs/2010.01047
