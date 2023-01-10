@@ -189,3 +189,15 @@ lectures:
     assignment:
     - label: Practical Methodology
       link: ass11.html
+
+  - date: 2023-01-17
+    type:
+    content:
+    - title: Graph Neural Networks
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading12.html
+    xassignment:
+    - label: Practical Methodology
+      link: ass11.html
