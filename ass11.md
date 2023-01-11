@@ -6,7 +6,7 @@ id: ass11
 
 
 # Assignment 11: What's Wrong With Our Data?
-**Deadline: January 09th, 9am**
+**Deadline: January 9th, 9am**
 
 
 [Following this link](https://drive.google.com/open?id=1s_YZsHfMAU7mTWHV2o40ni2Oc36vCL81),
