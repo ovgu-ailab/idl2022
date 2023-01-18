@@ -201,3 +201,16 @@ lectures:
     assignment:
     - label: Introspection Part 1
       link: ass12.html
+
+
+  - date: 2023-01-24
+    type:
+    content:
+    - title: TBD
+      slides:
+    reading:
+    - title: TBD
+      url:
+    assignment:
+    - label: Introspection Part 2
+      link: ass13.html
